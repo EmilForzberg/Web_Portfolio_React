@@ -1,6 +1,4 @@
 
-import './App.css'
-
 import './App.css';
 import ContactForm from './components/ContactForm';
 
