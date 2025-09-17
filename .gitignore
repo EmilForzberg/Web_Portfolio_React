@@ -11,3 +11,4 @@ Backend/.env
 .idea/
 *.iml
 .DS_Store
+.env
